@@ -6,14 +6,14 @@ This repo contains our individual solutions for the [Udemy Python Bootcamp](http
 
 Each person gets their own folder. Inside it, you can organize your work by day.
 
-/
-├── pedro/
-│ ├── day01/
-│ │ └── day1.py
-│ ├── day02/
-│ │ └── tip_calculator.py
-│ └── ...
-├── lucia/
-│ └── ...
+/  
+├── pedro/  
+│ ├── day01/  
+│ │ └── day1.py  
+│ ├── day02/  
+│ │ └── tip_calculator.py  
+│ └── ...  
+├── lucia/  
+│ └── ...  
 
 
